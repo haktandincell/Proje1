@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/dilsecmeekrani.unity
+    guid: 46876d93a78ad744b8f71c47e6fffb58
+  - enabled: 1
+    path: Assets/Scenes/C1.unity
+    guid: 6c8937a883cecb24bb0380e55e32c71c
+  - enabled: 1
+    path: Assets/Scenes/CSharp1.unity
+    guid: 71315a6b2958e5e4191e8b1e8d9071a6
+  - enabled: 1
+    path: Assets/Scenes/Python1.unity
+    guid: 065e9d1c7c239da4dacb436f4fa2f3f6
+  - enabled: 1
+    path: Assets/Scenes/C2.unity
+    guid: 8638c4381d20a794fa64f04d7d8adfd6
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 6799ee6dc0d678b44aae95d0227824b0, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a6d1a975bbfb41d4cb7d3ea0984bbfcb, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
